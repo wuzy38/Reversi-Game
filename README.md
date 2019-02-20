@@ -9,7 +9,7 @@ AI的分析过程有两个阶段。
 这时由于棋盘中的棋子数量减少，AI可以直接搜到棋盘下满的情况，这就相当于可以得出胜负了，因此这时根据最后的胜负情况来判断局势优劣情况，同样依据Min-Max算法配合Alpha-Beta剪枝计算最优的下子点。
 
 ## 目录 
--ReversiProject_boxed.exe 项目可执行文件  
+-ReversiProject_boxed.exe 项目可执行文件   
 -ReversiProject 项目程序文件  
 --reversi.h reversi.cpp    棋盘文件，主要是Reversi类的设计。实现了棋盘逻辑，包括下子，判断落子方，判断胜负等功能  
 --reversiai.h reversiai.cpp    AI文件，主要是ReversiAi类的设计。实现了AI棋手，主要从行动力，稳定子，棋盘权重三个方面分析棋盘优劣，使用Min-Max算法搜索最优下子位置  
