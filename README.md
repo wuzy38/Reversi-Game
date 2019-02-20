@@ -15,3 +15,7 @@ AI的分析过程有两个阶段。
 --reversiai.h reversiai.cpp    AI文件，主要是ReversiAi类的设计。实现了AI棋手，主要从行动力，稳定子，棋盘权重三个方面分析棋盘优劣，使用Min-Max算法搜索最优下子位置  
 --reversimainwindow.h reversimainwindow.cpp reversimainwindow.ui    游戏界面文件，ReversiMainWindow类的设计。实现棋盘的显示  
 --selectdialog.h selectdialog.cpp selectdialog.ui    开始界面文件，SelectDialog类的设计。用于选择先后手及难度  
+
+## 结果展示
+![开始界面](https://github.com/wuzy38/Reversi-Game/blob/master/%E5%BC%80%E5%A7%8B%E7%95%8C%E9%9D%A2.png)
+![游戏界面](https://github.com/wuzy38/Reversi-Game/blob/master/%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2.png)
