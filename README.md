@@ -17,5 +17,7 @@ AI的分析过程有两个阶段。
 --selectdialog.h selectdialog.cpp selectdialog.ui    开始界面文件，SelectDialog类的设计。用于选择先后手及难度  
 
 ## 结果展示
+开始界面  
 ![开始界面](https://github.com/wuzy38/Reversi-Game/blob/master/%E5%BC%80%E5%A7%8B%E7%95%8C%E9%9D%A2.png)
+游戏界面  
 ![游戏界面](https://github.com/wuzy38/Reversi-Game/blob/master/%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2.png)
